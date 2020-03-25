@@ -1,0 +1,19 @@
+Persona No° 1:
+
+	Nombre: Andres
+	Apellido Paterno: Ruiz
+	Apellido Materno: Del Castillo
+	Cargo: Ingeniero
+	Empresa: Ceti
+	Calle: Nueva Escocia
+	Numero Exterior: 90
+	Numero Interior: 102
+	Colonia: Providencia
+	Municipio: Zapopan
+	Estado: Jalisco
+	Codigo Postal: 45030
+	Telefono: 3310656222
+	Email: andres@ceti.mx
+	Fecha de Nacimiento: 18/10/1995
+	Edad: 22 años
+
