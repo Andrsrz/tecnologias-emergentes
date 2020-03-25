@@ -12,8 +12,10 @@ tkMessageBox
 smtplib
 ```
 
-## Usagem
+## Usage
+``` shell
 python3 fileName.py
+```
 
 ## What have I learned?
 * Python
